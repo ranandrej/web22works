@@ -23,6 +23,7 @@ const scrollToTop=()=>{
   text-align: center;
   cursor: pointer;
   padding-top: 10px;
+  z-index: 100000000;
 }
 i{
     color: white;
